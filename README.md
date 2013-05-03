@@ -1,4 +1,0 @@
-javaVendingMachine
-==================
-
-Java Vending Machine
