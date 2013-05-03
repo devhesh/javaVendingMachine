@@ -26,13 +26,6 @@ public class Main {
         int[] priceI = {40,75,80,95};
         String[] priceS = {"40","75","80","95"};
         Scanner input = new Scanner(System.in);
-        int coin = 0;
-        int add = 0;
-        int change = 0;
-        int cost,paid;//total cost, amount paid, difference of the 2
-        int dollars,quarters,dimes,nickels,pennies;//denomination variables
-        Scanner addi = new Scanner(System.in);
-        Scanner insert = new Scanner(System.in);
         int selection = 0;
  
         while(selection != 4 ){
