@@ -1,7 +1,7 @@
 //javaVendingMachine
 ==================
 
-Java Vending Machine
+//Java Vending Machine
 /*
  * A program that prints out vending machine choices to the user, receives input as to their selection,
  * receives input as to the amount paid by user, and determines their change (with denominations in $1 bills
